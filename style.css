@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(241, 241, 241);
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+}
+
+th {
+    background-color: #1581ac;
+    color: rgb(219, 219, 219);
+}
+
+tr:hover {
+    background-color: #fcfcfc;
+}
